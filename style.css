@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
 .ky-classic-purpley clevertar-chat .ky-content {
     background-image: url('https://i.imgur.com/9evq2tw.jpg') !important;
+}
+.ky-classic-purpley clevertar-chat .ky-bubble-block.ky-agent .ky-msg {
+    background: #ffffff94 !important;
+    border-color: #ffffff94 !important;
+    font-family: 'Jost', sans-serif;
+}
+
+.ky-classic-purpley clevertar-chat .ky-chat-response {
+    background-color: #ffffff85 !important;
+}
+
+clevertar-chat .ky-chat-response button {
+    background: #ffffff6e !important;
 }
